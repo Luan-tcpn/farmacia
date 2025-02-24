@@ -1,5 +1,5 @@
 import React from 'react';
-import type { categoria } from '../models/Categoria';
+import type { Categoria } from '../models/Categoria';
 
 interface CardCategoriaProps {
   categoria: Categoria;
